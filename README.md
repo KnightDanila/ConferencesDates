@@ -12,3 +12,7 @@ Dates Of Conferences
 * ENG - язык
 * Free - цен
 
+### Полезные ресурсы
+#### Для правильного перевода фраз на Английский:
+* https://context.reverso.net
+* https://translate.google.com
