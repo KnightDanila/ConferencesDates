@@ -19,3 +19,11 @@ Dates Of Conferences
 #### Сайты для изучения статей:
 * https://www.researchgate.net/directory/publications
 * http://sci-hub.tw/
+* https://cyberleninka.ru/
+* http://arxiv.org/ - arXiv.org
+* http://libgen.io/ - Library Genesis
+* http://bookfi.net/
+* https://citeseerx.ist.psu.edu/ - CiteSeerx
+##### NotFree
+* web-of-science https://clarivate.com/products/web-of-science/
+* scopus http://www.scopus.com/
