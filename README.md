@@ -16,6 +16,8 @@ Dates Of Conferences
 #### Для правильного перевода фраз на Английский:
 * https://context.reverso.net
 * https://translate.google.com
+* https://app.grammarly.com/
+* https://latex2image.joeraut.com/
 #### Сайты для изучения статей:
 * https://www.researchgate.net/directory/publications
 * https://www.mdpi.com/
