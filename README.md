@@ -17,6 +17,7 @@ Dates Of Conferences
 * https://context.reverso.net
 * https://translate.google.com
 * https://app.grammarly.com/
+#### Для формул:
 * https://latex2image.joeraut.com/
 #### Сайты для изучения статей:
 * https://www.researchgate.net/directory/publications
