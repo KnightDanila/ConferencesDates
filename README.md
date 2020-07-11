@@ -19,6 +19,8 @@ Dates Of Conferences
 * https://app.grammarly.com/
 #### Для формул:
 * https://latex2image.joeraut.com/
+#### Дл шрифтов:
+https://www.myfonts.com/WhatTheFont  
 #### Сайты для изучения статей:
 * https://www.researchgate.net/directory/publications
 * https://www.mdpi.com/
